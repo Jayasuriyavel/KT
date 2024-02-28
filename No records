@@ -1,3 +1,12 @@
 {
-   
+    "id": ,
+    "companyName": ,
+    "contactName": ,
+    "contactTitle": ,
+    "address": ,
+    "city": ,
+    "postalCode": "",
+    "country": ,
+    "phone":  ,
+    "fax": ""
 }
