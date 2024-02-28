@@ -1,0 +1,44 @@
+[
+  {
+    "Username": "Dinesh_Govindasmi",
+    "Email": "dinesh.govindasami@syncfusion.com",
+    "DisplayName": "Dinesh",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "Ravikumar_Selvaraj",
+    "Email": "ravikumar.selvaraj@syncfusion.com",
+    "DisplayName": "Ravikumar",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "Ariya_Sureshkumar",
+    "Email": "ariya.sureshkumar@syncfusion.com",
+    "DisplayName": "Ariya",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "Vedhachalam_Vennugopal",
+    "Email": "vedhachalam.vennugopal@syncfusion.com",
+    "DisplayName": "Vedhachalam",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "Swarna_Pakkiyanadhan",
+    "Email": "swarna.pakkiyanadhanb@syncfusion.com",
+    "DisplayName": "Swarna",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "User1",
+    "Email": "user1@boldbi.com",
+    "DisplayName": "user1",
+    "Password": "Qa@123"
+  },
+  {
+    "Username": "User2",
+    "Email": "user2@boldbi.com",
+    "DisplayName": "user2",
+    "Password": "Qa@123"
+  }
+]
