@@ -4,7 +4,7 @@
     "contactName": null,
     "contactTitle": null,
     "address": null,
-    "city": "Berlin",
+    "city": null,
     "postalCode": "12209",
     "country": "Germany",
     "phone": "030-0074321",
