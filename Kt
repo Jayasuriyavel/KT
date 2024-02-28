@@ -1,13 +1,13 @@
 [
   {
-    "companyID": "company_1",
+    "companyID": "",
     "SelledID": "1a",
     "SellerName": "JAYDEN",
     "SalesAmount": 5000,
     "OrderDate": "1/9/1997"
   },
   {
-    "companyID": "company_2",
+    "companyID": "",
     "SelledID": "2a",
     "SellerName": "SURYA",
     "SalesAmount": 4000,
