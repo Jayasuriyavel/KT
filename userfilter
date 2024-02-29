@@ -40,5 +40,11 @@
     "Email": "user2@boldbi.com",
     "DisplayName": "user2",
     "Password": "Qa@123"
+  },
+  {
+    "Username": "jayasuriya.velmurugan@syncfusion.com",
+    "Email": "jayasuriya.velmurugan@syncfusion.com",
+    "DisplayName": "Jayasuriya",
+    "Password": "Qa@123"
   }
 ]
